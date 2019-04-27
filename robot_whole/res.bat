@@ -1,0 +1,1 @@
+{'4-3': 'yakult', '4-2': 'greensquare', '1-3': 'tennisball', '1-2': 'sprite', '3-3': 'badminton', '2-2': 'steelwool', '2-1': 'apple', '1-1': 'sww', '4-1': 'redsquare', '3-1': 'bluesquare', '2-3': 'snowflower', '3-2': 'yellowsquare'}
